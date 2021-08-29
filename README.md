@@ -1,4 +1,4 @@
-## My name is Davi Almeida and i write codes :) ❤️
+## My name is Davi Almeida , Developer and Art Lover :)
 - 🤔 I’m currently learning Flask Microframework
 <div>
     <a href="https://github.com/yotta0">
